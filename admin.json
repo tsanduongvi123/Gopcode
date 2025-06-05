@@ -5,7 +5,7 @@
     "proxy.py": "Tool Reg Proxy Vip",
     "regfbv.py": "Tool Reg acc Facebook Vip",
     "regtm.py": "Tool reg gmail Vip",
-    "getidface.py" :"Tool lấy id Facebook và id bài viết Vip",
+    "getidface.py" : "Tool lấy id Facebook và id bài viết Vip",
     "tdstiktokvip.py": "Tool TDS Tiktok cực Vip"
   }
 }
