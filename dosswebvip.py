@@ -530,7 +530,7 @@ async def run_all(url, ip, port, protection):
 if __name__ == "__main__":
     print(BANNER)
     print(f"{Colors.YELLOW}[📅] Thời gian: {datetime.now().strftime('%H:%M:%S %d/%m/%Y')}{Colors.RESET}")
-    print(f"{Colors.RED}⚠️ CẢNH BÁO: DDoS bất hợp pháp nếu không có phép! Chỉ dùng trên hệ thống bạn sở hữu.{Colors.RESET}")
+    print(f"{Colors.RED}⚠️ CẢNH BÁO: DDoS bất hợp pháp nếu không có phép! Đường Vĩ không chịu bất kì việc bạn gây ra.{Colors.RESET}")
     url = input(f"{Colors.CYAN}[🔗] Nhập URL (ví dụ: http://localhost:8080): {Colors.RESET}").strip()
     if not url.startswith("http"):
         url = "https://" + url
