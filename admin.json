@@ -6,6 +6,7 @@
     "regfbv.py": "Tool Reg acc Facebook Vip",
     "regtm.py": "Tool reg gmail Vip",
     "getidface.py" : "Tool lấy id Facebook và id bài viết Vip",
-    "tdstiktokvip.py": "Tool TDS Tiktok cực Vip"
+    "tdstiktokvip.py": "Tool TDS Tiktok cực Vip",
+    "tdsfacebookvip.py": "Tool TDS Facebook Full Job Cực Vip"
   }
 }
