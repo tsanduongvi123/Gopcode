@@ -95,8 +95,8 @@ def create_mailtm_account(session, account_num, max_retries=3):
     }
     domain = get_available_domains(session)
     payload = {
-        "address": f"sieucode{random.randint(1000, 9999)}@{domain}",
-        "password": f"sieucode{random.randint(1000, 9999)}"
+        "address": f"DGVIKAKA{random.randint(1000, 9999)}@{domain}",
+        "password": f"DGVIKAKA{random.randint(1000, 9999)}"
     }
     
     for attempt in range(max_retries):
@@ -181,10 +181,10 @@ def create_multiple_accounts(num_accounts, filename, proxy_file=None):
 def main():
     clear_screen()
     # Giao diện mới với Admin
-    print(f"{Fore.MAGENTA}╔════════════════════════════════════════════╗{Style.RESET_ALL}")
-    print(f"{Fore.MAGENTA}║      MAILTM ACCOUNT CREATOR v1.0           ║{Style.RESET_ALL}")
-    print(f"{Fore.MAGENTA}║      Admin: SIEU CODE                     ║{Style.RESET_ALL}")
-    print(f"{Fore.MAGENTA}╚════════════════════════════════════════════╝{Style.RESET_ALL}")
+    print(f"\033[1;31m{Fore.MAGENTA}╔════════════════════════════════════════════╗{Style.RESET_ALL}")
+    print(f"\033[1;31m{Fore.MAGENTA}\033[1;31m║      \033[1;34mMAILTM ACCOUNT CREATOR VIP👑          ║{Style.RESET_ALL}")
+    print(f"\033[1;34m{Fore.MAGENTA}\033[1;34m║      \033[1;31mAdmin: DGVI KAKA💤                    ║{Style.RESET_ALL}")
+    print(f"\033[1;34m{Fore.MAGENTA}╚════════════════════════════════════════════╝{Style.RESET_ALL}")
     typing_effect(f"{Fore.YELLOW}Công cụ tạo tài khoản MailTM với proxy support{Style.RESET_ALL}")
     print(f"{Fore.CYAN}--------------------------------------------{Style.RESET_ALL}")
     time.sleep(1)
