@@ -1,12 +1,79 @@
-
 {
-  "file_display_names": {
-    "dosswebvip.py": "Tool Doss Web Vip",
-    "proxy.py": "Tool Reg Proxy Vip",
-    "regfbv.py": "Tool Reg acc Facebook Vip",
-    "regtm.py": "Tool reg gmail Vip",
-    "getidface.py" : "Tool lấy id Facebook và id bài viết Vip",
-    "tdstiktokvip.py": "Tool TDS Tiktok cực Vip",
-    "spamsmsvip.py": "Tool Spam SMS Cực Vip"
-  }
+  "tool_groups": [
+    {
+      "group_name": "TOOL GOLIKE",
+      "tools": [
+        {
+          "filename": "golike_follow.py",
+          "display_name": "Tool GoLike Auto Follow",
+          "status": "Hoạt động"
+        },
+        {
+          "filename": "golike_tiktok.py",
+          "display_name": "Tool GoLike Tiktok VIP",
+          "status": "Bảo trì"
+        }
+      ]
+    },
+    {
+      "group_name": "TOOL REG",
+      "tools": [
+        {
+          "filename": "proxy.py",
+          "display_name": "Tool Reg Proxy Vip",
+          "status": "Hoạt động"
+        },
+        {
+          "filename": "regfbv.py",
+          "display_name": "Tool Reg acc Facebook Vip",
+          "status": "Hoạt động"
+        },
+        {
+          "filename": "regtm.py",
+          "display_name": "Tool Reg Gmail Vip",
+          "status": "Hoạt động"
+        }
+      ]
+    },
+    {
+      "group_name": "TOOL SPAM",
+      "tools": [
+        {
+          "filename": "spamsmsvip.py",
+          "display_name": "Tool Spam SMS Cực Vip",
+          "status": "Hoạt động"
+        }
+      ]
+    },
+    {
+      "group_name": "TOOL FACEBOOK",
+      "tools": [
+        {
+          "filename": "getidface.py",
+          "display_name": "Tool Lấy ID Facebook và Bài Viết",
+          "status": "Hoạt động"
+        }
+      ]
+    },
+    {
+      "group_name": "TOOL TDS",
+      "tools": [
+        {
+          "filename": "tdstiktokvip.py",
+          "display_name": "Tool TDS Tiktok Cực Vip",
+          "status": "Hoạt động"
+        }
+      ]
+    },
+    {
+      "group_name": "TOOL DOSS",
+      "tools": [
+        {
+          "filename": "dosswebvip.py",
+          "display_name": "Tool Doss Web Vip",
+          "status": "Hoạt động"
+        }
+      ]
+    }
+  ]
 }
