@@ -1,3 +1,8 @@
+{
+  "file_dispkay_names": {
+    "GolikeAutoTikTokVip.py ": "Tool Golike TikTok Cực Vip"
+  }
+}
 
 {
   "file_display_names": {
@@ -7,7 +12,6 @@
     "regtm.py": "Tool reg gmail Vip",
     "getidface.py" : "Tool lấy id Facebook và id bài viết Vip",
     "tdstiktokvip.py": "Tool TDS Tiktok cực Vip",
-    "spamsmsvip.py": "Tool Spam SMS Cực Vip",
-    print("🤴Tool Chạy Golike Auto cực Vip🤴")
+    "spamsmsvip.py": "Tool Spam SMS Cực Vip"
   }
 }
