@@ -1,12 +1,19 @@
-
 {
-  "file_display_names": {
-    "dosswebvip.py": "Tool Doss Web Vip",
+  "Tool Doss": {
+    "dosswebvip.py": "Tool Doss Web Vip"
+  },
+  "Tool Reg": {
     "proxy.py": "Tool Reg Proxy Vip",
     "regfbv.py": "Tool Reg acc Facebook Vip",
-    "regtm.py": "Tool reg gmail Vip",
-    "getidface.py" : "Tool lấy id Facebook và id bài viết Vip",
-    "tdstiktokvip.py": "Tool TDS Tiktok cực Vip",
+    "regtm.py": "Tool reg gmail Vip"
+  },
+  "Tool Facebook": {
+    "getidface.py": "Tool lấy id Facebook và id bài viết Vip"
+  },
+  "Tool TDS": {
+    "tdstiktokvip.py": "Tool TDS Tiktok cực Vip"
+  },
+  "Tool Spam": {
     "spamsmsvip.py": "Tool Spam SMS Cực Vip"
   }
 }
