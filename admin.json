@@ -4,13 +4,33 @@
       "group_name": "TOOL GOLIKE",
       "tools": [
         {
-          "filename": "golike_follow.py",
-          "display_name": "Tool GoLike Auto Follow",
+          "filename": "GolikeAutoX.py",
+          "display_name": "Tool GoLike Auto Twitter VIP",
           "status": "Hoạt động"
         },
         {
           "filename": "GolikeAutoTikTokVip.py",
           "display_name": "Tool GoLike Tiktok VIP",
+          "status": "Hoạt động"
+        },
+        {
+          "filename": "GolikeAutoYTB.py",
+          "display_name": "Tool GoLike YOUTUBE VIP",
+          "status": "Hoạt động"
+        },
+        {
+          "filename": "GolikeAutoIntagram.py",
+          "display_name": "Tool GoLike INTAGRAM VIP",
+          "status": "Hoạt động"
+        },
+        {
+          "filename": "GolikeAutoLinkedin.py",
+          "display_name": "Tool GoLike LINKEDIN VIP",
+          "status": "Hoạt động"
+        },
+        {
+          "filename": "GolikeAutoTheads.py",
+          "display_name": "Tool GoLike THREADS VIP",
           "status": "Hoạt động"
         }
       ]
