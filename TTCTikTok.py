@@ -187,7 +187,7 @@ def OO000000000O000OO ():
 		else :
 			os .remove ('configttc.txt')
 			continue 
-	banner ()
+	
 	print (f'{thanh_xau}{luc}Tên Tài Khoản: {vang}{OO0OOO00O0O0OO00O}')
 	print (f'{thanh_xau}{luc}Xu Hiện Tại: {vang}{O0O00OO0OO0O00O0O}')
 	OO0O00O0O000OO0OO (14 )
