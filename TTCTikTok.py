@@ -150,7 +150,6 @@ def OO000000000O000OO ():
 	OO0O0OO000O00O0O0 =0 
 	OOOO0OOO000OO0O0O =''
 	global O0O00OO0OO0O00O0O 
-	banner ()
 	while True :
 		if os .path .exists ('configttc.txt'):
 			with open ('configttc.txt','r')as O0000O0O0O0OO0O00 :
