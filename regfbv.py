@@ -6,6 +6,7 @@ from datetime import datetime
 import json
 import sys
 import urllib3
+import os
 
 # Định nghĩa màu sắc và ký hiệu mới
 RESET = "\033[0m"
