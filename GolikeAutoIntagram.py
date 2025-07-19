@@ -273,7 +273,7 @@ def banner():
 
 [1;97mTool By: [1;32mĐường Vĩ💎                    [1;97mPhiên Bản: [1;32mVIP👑     
 [1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[1;32m[•] TOOL TDS INSTAGRAM AUTO 100% VIP 👑
+[1;32m[•] TOOL GOLIKE INSTAGRAM AUTO 100% VIP 👑
 [1;36m[•] SDT: 0785308626 👀
 [1;33m[•] ADMIN: Duong Vi 💤
 [1;31m[•] TIKTOK: 👉 @tsdvi1111 👈
