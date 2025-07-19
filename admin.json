@@ -87,6 +87,11 @@
           "filename": "TdsAutointagram.py",
           "display_name": "Tool TDS Instagram Auto 100% Vip",
           "status": "Hoạt động"
+        },
+        {
+          "filename": "tdsfacebookvip.py",
+          "display_name": "Tool TDS Facebook Auto 100% Vip",
+          "status": "Hoạt động"
         }
       ]
     },
