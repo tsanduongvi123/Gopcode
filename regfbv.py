@@ -144,7 +144,7 @@ def banner():
 
 \033[1;97mTool By: \033[1;32mĐường Vĩ💎                    \033[1;97mPhiên Bản: \033[1;32mVIP👑     
 \033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-\033[1;32m[•] TOOL TDS INSTAGRAM AUTO 100% VIP 👑
+\033[1;32m[•] TOOL REG ACC FACEBOOK AUTO VIP 👑
 \033[1;36m[•] SDT: 0785308626 👀
 \033[1;33m[•] ADMIN: Duong Vi 💤
 \033[1;31m[•] TIKTOK: 👉 @tsdvi1111 👈
