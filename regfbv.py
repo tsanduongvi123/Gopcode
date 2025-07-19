@@ -151,6 +151,7 @@ def banner():
 \033[1;34m[•] FACEBOOK: https://www.facebook.com/share/16ekEpqVoh/
 \033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 """)
+	
 clear ()
 banner ()
 # Nhập thông tin từ người dùng
