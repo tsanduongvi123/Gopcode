@@ -128,7 +128,10 @@ def create_account():
         else:
             print(f"{INFO} {YELLOW}Lỗi không xác định!{RESET}")
         print(f"{LINE}")
-	    
+
+def clear():
+    os.system('cls' if os.name == 'nt' else 'clear')
+
 def banner():
 	print(f"""
 \033[1;31m██████╗░██╗░░░██╗██╗  ████████╗░█████╗░░█████╗░██╗░░░░░
@@ -147,6 +150,8 @@ def banner():
 \033[1;34m[•] FACEBOOK: https://www.facebook.com/share/16ekEpqVoh/
 \033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 """)
+clear ()
+banner ()
 # Nhập thông tin từ người dùng
 while True:
     try:
