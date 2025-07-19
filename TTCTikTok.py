@@ -1,8 +1,9 @@
 import os
 
 def clear():
-    os.system('cls' if os.name == 'nt' else 'clear')
-
+    os.system('cls' if os.name == 'nt'
+else 'clear')
+	
 def banner():
 	print(f"""
 \033[1;31m██████╗░██╗░░░██╗██╗  ████████╗░█████╗░░█████╗░██╗░░░░░
