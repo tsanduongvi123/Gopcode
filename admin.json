@@ -82,6 +82,21 @@
           "filename": "tdstiktokvip.py",
           "display_name": "Tool TDS Tiktok Cực Vip",
           "status": "Hoạt động"
+        },
+        }
+          "filename": "TdsAutointagram.py ",
+          "display_name": "Tool TDS Instagram Auto 100% Vip",
+          "status": "Hoạt động"
+        }
+      ]
+    },
+    {
+      "group_name": "TOOL TTC",
+      "tools": [
+        {
+          "filename": "TTCTikTok.py",
+          "display_name": "Tool TCC Tiktok Cực Vip",
+          "status": "Hoạt động"
         }
       ]
     },
