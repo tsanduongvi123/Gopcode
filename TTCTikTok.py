@@ -1,8 +1,7 @@
 import os
 
 def clear():
-    os.system('cls' if os.name == 'nt'
-else 'clear')
+    os.system('cls' if os.name == 'nt' else 'clear')
 
 def banner():
 	print(f"""
@@ -15,7 +14,7 @@ def banner():
 
 \033[1;97mTool By: \033[1;32mĐường Vĩ💎                    \033[1;97mPhiên Bản: \033[1;32mVIP👑     
 \033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-\033[1;32m[•] TOOL TTC TikTok AUTO 90% Còn 10% Dùng AUTO CLICK VIP 👑
+\033[1;32m[•] TOOL TTC TIKTOK AUTO 90% CÒN 10% DÙNG AUTO CLICK VIP 👑
 \033[1;36m[•] SDT: 0785308626 👀
 \033[1;33m[•] ADMIN: Duong Vi 💤
 \033[1;31m[•] TIKTOK: 👉 @tsdvi1111 👈
@@ -151,7 +150,6 @@ def OO000000000O000OO ():
 	OO0O0OO000O00O0O0 =0 
 	OOOO0OOO000OO0O0O =''
 	global O0O00OO0OO0O00O0O 
-	clear ()
 	banner ()
 	while True :
 		if os .path .exists ('configttc.txt'):
@@ -188,7 +186,7 @@ def OO000000000O000OO ():
 		else :
 			os .remove ('configttc.txt')
 			continue 
-	banner ()
+	
 	print (f'{thanh_xau}{luc}Tên Tài Khoản: {vang}{OO0OOO00O0O0OO00O}')
 	print (f'{thanh_xau}{luc}Xu Hiện Tại: {vang}{O0O00OO0OO0O00O0O}')
 	OO0O00O0O000OO0OO (14 )
