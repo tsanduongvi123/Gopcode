@@ -151,6 +151,7 @@ def OO000000000O000OO ():
 	OO0O0OO000O00O0O0 =0 
 	OOOO0OOO000OO0O0O =''
 	global O0O00OO0OO0O00O0O 
+	clear ()
 	banner ()
 	while True :
 		if os .path .exists ('configttc.txt'):
