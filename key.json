@@ -4,7 +4,7 @@
       "key": "DGVI112010",
       "expiry": "2025-12-31",
       "ip": "14.191.73.243",
-      "device_id": "22027EAA316B"
+      "device_id": "27969FCAB3BC"
     },
     {
       "key": "DGVIKAKA2010",
@@ -22,13 +22,13 @@
       "key": "DGVI-NEWKEY1",
       "expiry": "2026-06-30",
       "ip": "14.191.73.243",
-      "device_id": "22027EAA316B"
+      "device_id": "27969FCAB3BC"
     },
     {
       "key": "DGVI-NEWKEY2",
       "expiry": "2026-09-30",
       "ip": "14.191.73.243",
-      "device_id": "22027EAA316B"
+      "device_id": "27969FCAB3BC"
     }
   ]
 }
